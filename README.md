@@ -1,2 +1,2 @@
 # IMDb-Sentiment-Classifier
-Using  RNNs to determine wheter an IMDb review is positive or negative 
+Using  NN and RNNs to determine wheter an IMDb review is positive or negative 
